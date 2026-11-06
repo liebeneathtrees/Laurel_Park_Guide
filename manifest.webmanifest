@@ -1,0 +1,28 @@
+{
+ "name": "Laurel Park Field Guide",
+ "short_name": "Laurel Guide",
+ "description": "An interactive, mobile-friendly field guide to the trees, plants, and animals of Laurel Park on Lake Lanier in Gainesville, Georgia.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#1e3d42",
+ "theme_color": "#1e3d42",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
